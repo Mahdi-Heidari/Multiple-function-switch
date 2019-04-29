@@ -1,4 +1,4 @@
-# Multiple-function-switch
+# PLC-Multiple-function-switch
 This program takes over an AC motor by use of multiple function switch and performs based on the following rules:
 
 1- Highlighting Q1 (the AC motor) for 15 seconds as I1 is pressed and turns off then.
